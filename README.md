@@ -52,7 +52,7 @@ pip install molecule
 
 <img width="361" alt="Freestylejob2" src="https://github.com/user-attachments/assets/6b97bce5-086e-463a-a256-e444f200092d">
 
-ДАЛЕЕ СМОТРИМ ДРУГОЙ README.MD
+ДАЛЕЕ СМОТРИМ ДРУГОЙ [README.MD](https://github.com/sash3939/Jenkins/blob/main/09-ci-04-jenkins/README.md)
 
 2. Сделать Declarative Pipeline Job, который будет запускать `molecule test` из любого вашего репозитория с ролью.
 3. Перенести Declarative Pipeline в репозиторий в файл `Jenkinsfile`.
